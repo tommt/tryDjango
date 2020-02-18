@@ -1,0 +1,2 @@
+# tryDjango
+Blog Application
